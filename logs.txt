@@ -1,0 +1,26 @@
+*   c825718 Merge branch 'master' of https://github.com/HristijanBogdanoski/SI_2025_lab1_213152
+|\  
+| *   1b1fda8 Implemented countTasksPerCategory
+| |\  
+| * \   b581093 Merge pull request #11 from HristijanBogdanoski/3-list-tasks-sorted-by-name
+| |\ \  
+| | * | f1e483e Implemented sortTasksByName
+* | | | 3be686b Initial commit
+* | | |   7e8b2ef Merge branch '7-count-tasks-per-category'
+|\ \ \ \  
+| | |_|/  
+| |/| |   
+| * | | fe1a487 Implemented countTasksPerCategory
+| | |/  
+| |/|   
+* | | 1ef8ccb Implemented sortTasksByName
+| |/  
+|/|   
+* |   7f492ac Merge pull request #10 from HristijanBogdanoski/1-remove-a-task-by-name
+|\ \  
+| |/  
+|/|   
+| * 7cf0021 Implemented removeTask
+|/  
+* 181d8dc Add starter code
+* 61a0746 Initial commit
