@@ -1,1 +1,1 @@
-"Hristijan Bogdanoski, 213152" 
+Hristijan Bogdanoski 213152
